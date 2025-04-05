@@ -1,0 +1,19 @@
+# Pasta de dependências
+node_modules/
+
+# Variáveis de ambiente
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Pastas temporárias
+.tmp/
+dist/
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
